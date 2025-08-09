@@ -74,7 +74,7 @@
         <a href="https://www.instagram.com/gpa_smkcbpare" class="btn btn-custom btn-lg w-100">Instagram</a>
         <a href="https://www.tiktok.com/@gpa_smkcbpare" class="btn btn-custom btn-lg w-100">Tiktok</a>
         <a href="#" class="btn btn-custom btn-lg w-100">Nia</a>
-        <a href="./dokumentasi" class="btn btn-custom btn-lg w-100">Drive Dokumentasi</a>
+        <a href="./dokumentasi/" class="btn btn-custom btn-lg w-100">Drive Dokumentasi</a>
     </div>
 
 </body>
